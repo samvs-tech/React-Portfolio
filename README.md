@@ -9,5 +9,5 @@ https://samvs-tech.netlify.app/
 
 ## Technologies
 
- -React
- -Tailwind
+- React
+- Tailwind
